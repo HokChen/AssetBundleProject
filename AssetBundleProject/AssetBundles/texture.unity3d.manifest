@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1673771704
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6c8c6f6cfac7eca52489100b2007c1a1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: abb9b9167ab0d9f4af2beeb617361f49
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Hand Painted Grass Texture/Texture/Hand_Painted_Grass_normal.tga
+- Assets/Hand Painted Grass Texture/Texture/Hand_Painted_Grass.tga
+- Assets/Hand Painted Grass Texture/Material/Hand_Painted_Grass.mat
+Dependencies: []

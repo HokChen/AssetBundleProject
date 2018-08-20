@@ -1,0 +1,15 @@
+ManifestFileVersion: 0
+CRC: 276945160
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: sphere.unity3d
+      Dependencies:
+        Dependency_0: texture.unity3d
+    Info_1:
+      Name: cube.unity3d
+      Dependencies:
+        Dependency_0: texture.unity3d
+    Info_2:
+      Name: texture.unity3d
+      Dependencies: {}

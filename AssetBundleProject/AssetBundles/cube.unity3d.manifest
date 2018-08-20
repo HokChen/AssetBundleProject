@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1193473177
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b008df09ee6dd9b8cc473fecdd0fe202
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 53722e4b463365a6659fd0b3f07eaef0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/Cube.prefab
+Dependencies:
+- D:/CodeSky/Code/UnityDemo/AssetBundleProject/AssetBundles/texture.unity3d
